@@ -15,4 +15,8 @@ public class Model100C extends VendingMachine {
 			this.currentPaid = 0;
 		}
 	}
+
+	public void pickItem(String item) {
+
+	}	
 }
