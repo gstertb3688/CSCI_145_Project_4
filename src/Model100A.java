@@ -16,6 +16,11 @@ public class Model100A extends VendingMachine {
 		}
 	}
 	
+	public void pickItem(String item) \\not sure if this one is need or not for this machine
+	{
+		
+	}
+	
 	public String toString() {
 		// add more data
 		return String.format("This machine accepts coins only.\n)" +
